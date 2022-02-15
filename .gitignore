@@ -7,3 +7,4 @@ bin
 .vscode
 .classpath
 *.iml
+.DS_Store

@@ -15,3 +15,6 @@ Run the script
 ```
 ./serenity.sh iOS
 ```
+
+Note:
+Serenity version 3.2.0 is out (https://github.com/serenity-bdd/serenity-core/blob/master/docs/release-notes/3.2.0.md).
