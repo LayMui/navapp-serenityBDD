@@ -16,5 +16,12 @@ Run the script
 ./serenity.sh iOS
 ```
 
+
+Update chromedriver version:
+```
+brew install chromedriver
+chromedriver --version
+xattr -r  -d com.apple.quarantine /usr/local/bin/chromedriver
+```
 Note:
 Serenity version 3.2.0 is out (https://github.com/serenity-bdd/serenity-core/blob/master/docs/release-notes/3.2.0.md).
